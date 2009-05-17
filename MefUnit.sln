@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefUnit", "MefUnit\MefUnit.csproj", "{B67903D7-9A16-4BCA-90E2-D7F543D55C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefUnit.Runner.Console", "MefUnit.Runner.Console\MefUnit.Runner.Console.csproj", "{EC0B7CD4-DD8F-477F-A2B0-B9FC9CECB9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefUnit.Example", "MefUnit.Example\MefUnit.Example.csproj", "{7EB171BA-D5AE-4082-8EC0-520EFCEFA25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67903D7-9A16-4BCA-90E2-D7F543D55C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67903D7-9A16-4BCA-90E2-D7F543D55C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67903D7-9A16-4BCA-90E2-D7F543D55C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67903D7-9A16-4BCA-90E2-D7F543D55C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0B7CD4-DD8F-477F-A2B0-B9FC9CECB9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0B7CD4-DD8F-477F-A2B0-B9FC9CECB9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0B7CD4-DD8F-477F-A2B0-B9FC9CECB9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0B7CD4-DD8F-477F-A2B0-B9FC9CECB9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB171BA-D5AE-4082-8EC0-520EFCEFA25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB171BA-D5AE-4082-8EC0-520EFCEFA25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB171BA-D5AE-4082-8EC0-520EFCEFA25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB171BA-D5AE-4082-8EC0-520EFCEFA25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
